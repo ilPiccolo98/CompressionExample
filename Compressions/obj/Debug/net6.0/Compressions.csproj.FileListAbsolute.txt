@@ -1,0 +1,15 @@
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\bin\Debug\net6.0\Compressions.exe
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\bin\Debug\net6.0\Compressions.deps.json
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\bin\Debug\net6.0\Compressions.runtimeconfig.json
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\bin\Debug\net6.0\Compressions.dll
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\bin\Debug\net6.0\ref\Compressions.dll
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\bin\Debug\net6.0\Compressions.pdb
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\obj\Debug\net6.0\Compressions.csproj.AssemblyReference.cache
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\obj\Debug\net6.0\Compressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\obj\Debug\net6.0\Compressions.AssemblyInfoInputs.cache
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\obj\Debug\net6.0\Compressions.AssemblyInfo.cs
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\obj\Debug\net6.0\Compressions.csproj.CoreCompileInputs.cache
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\obj\Debug\net6.0\Compressions.dll
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\obj\Debug\net6.0\ref\Compressions.dll
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\obj\Debug\net6.0\Compressions.pdb
+C:\Users\it partner\Desktop\c#\Compressions\Compressions\obj\Debug\net6.0\Compressions.genruntimeconfig.cache
